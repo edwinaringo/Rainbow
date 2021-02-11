@@ -1,2 +1,3 @@
 # Rainbow
-Repo about Rainbows
+
+Repo about Rainbows in the key of C major.
